@@ -85,31 +85,31 @@ More details about the projects:
     * Every fourth Wednesday 16:00 UTC. Refer to the [OpenSSF calendar](https://openssf.org/calendar/)
     * [Meeting Notes](https://docs.google.com/document/d/18oAsfhfKJurH-YTUFe520CAZS3lkORX1WnZmBv4Llkc/edit)
 * Special Interest Group: **Cyber Reasoning Systems**
- * Detailed purpose: Development and support of Cyber Reasoning Systems (CRS) that leverage LLMs to automatically discover and patch software vulnerabilities. These projects address a critical gap in the open source security ecosystem: the need for intelligent, automated vulnerability detection that can scale across diverse codebases.
- * Mailing list: https://lists.openssf.org/g/openssf-sig-cyber-reasoning-sys/
- * Slack: [#sig-cyber-reasoning-systems](https://openssf.slack.com/archives/C09FQLYH1RD)
- * Meeting information
+  * Detailed purpose: Development and support of Cyber Reasoning Systems (CRS) that leverage LLMs to automatically discover and patch software vulnerabilities. These projects address a critical gap in the open source security ecosystem: the need for intelligent, automated vulnerability detection that can scale across diverse codebases.
+  * Mailing list: https://lists.openssf.org/g/openssf-sig-cyber-reasoning-sys/
+  * Slack: [#sig-cyber-reasoning-systems](https://openssf.slack.com/archives/C09FQLYH1RD)
+  * Meeting information
     * [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/92932171381?password=8635b161-f8b7-4e47-a90a-43b8b29dd077&invite=true)
     * Bi-weekly on Mondays at 13:00 ET. Refer to the [OpenSSF calendar](https://openssf.org/calendar/)
     * [Meeting Notes](https://docs.google.com/document/d/14ibgD9qqRZa9INzJz8EsvO-q4An2CziU2mbLGVuDIgE/edit)
 * Project: **SAFE-MCP**
- * Detailed purpose: A comprehensive security framework for the Model Context Protocol (MCP). Adapting MITRE ATT&CK methodology specifically for AI agent-tool orchestration. 80+ security techniques across 14 tactic categories with actionable mitigation guidance. Addressing emerging threats in agentic AI systems including prompt injection, tool permissions abuse, and credential leakage.
- * Mailing list: https://lists.openssf.org/g/openssf-sig-safe-mcp
- * Slack: [#sig-safe-mcp](https://openssf.slack.com/archives/C09GYQXSDB2)
- * Meeting information
+  * Detailed purpose: A comprehensive security framework for the Model Context Protocol (MCP). Adapting MITRE ATT&CK methodology specifically for AI agent-tool orchestration. 80+ security techniques across 14 tactic categories with actionable mitigation guidance. Addressing emerging threats in agentic AI systems including prompt injection, tool permissions abuse, and credential leakage.
+  * Mailing list: https://lists.openssf.org/g/openssf-sig-safe-mcp
+  * Slack: [#sig-safe-mcp](https://openssf.slack.com/archives/C09GYQXSDB2)
+  * Meeting information
     * [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/91566703673?password=9b64d82f-4efa-41e7-a82a-8868d49faf66&invite=true)
     * Bi-weekly on Mondays at 16:00 ET. Refer to the [OpenSSF calendar](https://openssf.org/calendar/)
     * [Meeting Notes](https://docs.google.com/document/d/1Ww6m32mQbHM-WJxXhQ1IE4btvCR7Jd319YO-rtv3Uc4/edit)
 * Special Interest Group: **E2E Model Provenance**
- * Detailed purpose: Developing a pipeline-agnostic framework for attesting and validating end-to-end model lifecycle provenance. The work in this SIG intends to complement OpenSSF Model Signing (OMS) and build upon the Atlas framework for ML lifecycle provenance and transparency and its implementation in the Atlas CLI, which currently supports OMS-compliant C2PA metadata and standard Intel TDX hardware attestation.
- * Mailing list: https://lists.openssf.org/g/openssf-sig-e2e-model-provenance
- * Slack: [#sig-e2e-model-provenance](https://openssf.slack.com/archives/C0A4BSEUJCC)
- * Meeting information
+  * Detailed purpose: Developing a pipeline-agnostic framework for attesting and validating end-to-end model lifecycle provenance. The work in this SIG intends to complement OpenSSF Model Signing (OMS) and build upon the Atlas framework for ML lifecycle provenance and transparency and its implementation in the Atlas CLI, which currently supports OMS-compliant C2PA metadata and standard Intel TDX hardware attestation.
+  * Mailing list: https://lists.openssf.org/g/openssf-sig-e2e-model-provenance
+  * Slack: [#sig-e2e-model-provenance](https://openssf.slack.com/archives/C0A4BSEUJCC)
+  * Meeting information
     * [Meeting Link](https://zoom-lfx.platform.linuxfoundation.org/meeting/92498671272?password=a7688bed-4f1e-4879-88d6-896c6630a10d&invite=true)
     * Bi-weekly on Thursdays at 11:00 ET. Refer to the [OpenSSF calendar](https://openssf.org/calendar/)
     * [Meeting Notes](https://docs.google.com/document/d/146N_FQqrMf6TkrniF8LmqEVzp-LmdSV5z-JfKgevp48/edit)
 * Special Interest Group: **GPU-Based Model Integrity**
- * Detailed purpose: Address the challenges of traditional CPU-based integrity verification by leveraging GPU acceleration for model integrity operations (hashing, signing, attestation). Model integrity is one component of comprehensive model provenance; this SIG's work will integrate with and enable broader provenance frameworks such as Model Transparency and Atlas.
+  * Detailed purpose: Address the challenges of traditional CPU-based integrity verification by leveraging GPU acceleration for model integrity operations (hashing, signing, attestation). Model integrity is one component of comprehensive model provenance; this SIG's work will integrate with and enable broader provenance frameworks such as Model Transparency and Atlas.
 * Project: **Security-Focused Guide for AI Code Assistant Instructions**
   * Detailed purpose: A collaboration between the AI/ML Security and the Best Practices Working Groups to improve the security of code generated by AI code assistants by creating custom prompts or custom instructions.
   * Published Document: [Security-Focused Guide for AI Code Assistant Instructions](https://best.openssf.org/Security-Focused-Guide-for-AI-Code-Assistant-Instructions)
